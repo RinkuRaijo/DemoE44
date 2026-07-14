@@ -9,6 +9,7 @@ public class DemoTest1 {
 	public void movieTest()
 	{
 		System.out.println("Cocktail");
+		System.out.println("KGF");
 	}
 
 }
